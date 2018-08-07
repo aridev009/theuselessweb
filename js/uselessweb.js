@@ -10,8 +10,8 @@ function uselessWebButton( button, popup ) {
 	// Useless websites: url | uses flash | score (out of 10)
 	// Commented out websites which have crashed.
 	var sitesList = [
-		['http://heeeeeeeey.com/',                                    false, 7],
-		['http://thatsthefinger.com/',                                false, 7],
+		['https://www.sharedrop.io/',                                 false, 7],
+		['https://www.sharedrop.io/',                                 false, 7],
 		['http://cant-not-tweet-this.com/',                           false, 7],
 		['http://eelslap.com/',                                       false, 5],
 		['http://www.staggeringbeauty.com/',                          false, 7],
@@ -30,7 +30,7 @@ function uselessWebButton( button, popup ) {
 		['http://www.leduchamp.com/',                                 true,  7],
 		['http://grandpanoclothes.com/',                              false, 6],
 		['http://www.haneke.net/',                                    false, 7],
-		['http://r33b.net/',                                          true,  6],
+		['https://www.sharedrop.io/',                                 true,  6],
 		['http://randomcolour.com/',                                  false, 6],
 		['http://cat-bounce.com/',                                    true,  6],
 		['http://cachemonet.com/',                                    true,  6],
